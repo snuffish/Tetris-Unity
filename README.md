@@ -1,5 +1,8 @@
 # Tetris Game in UnityEngine
 
+This is my first game made with Unity - Tetris!
+It's still a Work-In-Progress, but some features and functionality works and is in place.
+
 ## Screenshot
 ![img.png](img.png)
 
