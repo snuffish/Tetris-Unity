@@ -1,0 +1,4 @@
+repository "Tetris-Unity@Snuffish@cloud"
+  path "/"
+    br "/main"
+    co "/main"
